@@ -1,6 +1,6 @@
 # CryptoNote-V3.0-Draft
 
-What will be suggestede in this paper will be
+What will be suggested in this paper will be
 
 A. Node Optimization
 B. Smart Wallet Function
