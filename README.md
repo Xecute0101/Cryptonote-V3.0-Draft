@@ -10,23 +10,25 @@ At the time of Cryptonote V2.0, miners were mainly divided into two types of har
 The market for cryptocurrency has advanced in 5 years and, as of January 2018, ASIC mining hardwares were introduced to the CryptoNote mining communities, and they provide significant advantages over GPU mining rigs in terms of hashrate per hardware and electricity costs.
 
 A-2.
-The word 'Egalitarian' means all people are equal and deserves 'equal' rights and opportunities. under current mining ecosystem, CPU, GPU and ASIC mining cannot satisfy this egalitarianism concept. Fork effrots to Anti-ASIC mining algorithm have been made by the majority of CryptoNote communities to keep ASIC mining hardware from the network. But this is a type of centralization.
+The word 'Egalitarian' means all people are equal and deserve 'equal' rights and opportunities. Under current mining ecosystem, CPU, GPU and ASIC mining cannot satisfy this egalitarianism concept. Fork effrots to Anti-ASIC mining algorithms have been made by the majority of CryptoNote communities to keep ASIC mining hardware away from the network. But this is a type of centralization.
 
-In this paper, I would like to propose Egalitarian Proof of work based on Coin Distribution. Because the emission of a Cryptonote coin is predictable based inherent emission rate designed in the core of each coin, allowing sequential entrance of each mining platform to mining pools at specific points of the emission can provide more 'equal' rights to mine and 'equal' opportunities in terms of earning coins. Also as a result of this action, the coins will have a better distribution among community miners.
+In this paper, I would like to propose Egalitarian Proof of Work based on Coin Distribution. Because the emission of a Cryptonote coin is predictable due to inherent emission rate designed in the core of each coin, allowing sequential entrance of each mining hardware to mining pools at specific points of the emission curve can provide more 'equal' rights and 'equal' opportunities in terms of earning coins. Also, as a result of this, the coins will have a better distribution among community miners.
 
 [graph and diagram to be added to provide examples]
 
 B. Egalitarian Proof of Service (PoSe) based on Uptime
 
-Wallet platform has also evolved from desktop/laptop computers to mobile devices over time. However, mobile wallet solutions have storage and bandwidth limitations. Because of these limitations, mobile wallet solutions are required to connect to remote daemon in order to synchronize with blockchain and make transactions.
+Wallet platforms have also evolved from desktop/laptop computers to mobile devices. However, mobile wallet solutions have storage and bandwidth limitations. Because of these limitations, mobile wallet solutions are required to connect to remote daemon in order to synchronize with blockchain and make transactions.
 
-Most coins utilizes Proof of Stake(PoS) concept as the mean of providing interests on staking coins and thereby incentivizing those node operators to hold onto coins instead of trading them in the market. The amount of interests provided to node operator increases based on the number of coins locked into each node account.
+Most coins utilizes Proof of Stake(PoS) concept as the mean of providing interests on staking coins and thereby incentivizing those node operators to hold onto coins instead of trading them in the market. The amount of interests provided to node operators increase per the number of coins locked into each node account.
 
-In the process of earning coins, either by mining or providing nodes to the network, the same egalitarian concept shall be applied in CryptoNote coins because they are all part of the same ecosystem and they are entitled to receive coins for their work and service. 
+In the process of earning coins, either by mining or providing nodes to the network, the same egalitarian concept can be applied because they are all part of the same ecosystem and they are also entitled to receive coins for their work and service as it is for miners.
 
 The proposed method is to use the concept of Uptime. This method requires one premise that there is no minimum coin requirement to operate a node and it shall be free to join. 
 
 For example, all nodes, which meets the minimum requirement for compensation based on Weighted Uptime, can share accumulated transaction fee per a given time period.
+
+[Calculation of node operation cost, target profit, dynamic adjustment of transaction fee based on exchange price]
 
 C. Node Optimization
 
