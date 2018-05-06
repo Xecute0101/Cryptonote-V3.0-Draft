@@ -3,12 +3,6 @@
 What will be suggested in this paper will be
 
 A. Egalitarian Proof of Work based on Coin Distribution
-B. Egalitarian Proof of Service (PoSe) based on Uptime
-C. Node Optimization
-D. Smart Wallet Function
-
-
-A. Egalitarian Proof of Work based on Coin Distribution
 
 A-1.
 At the time of Cryptonote V2.0, miners were mainly divided into two types of hardware; CPU and GPU, the latter becoming a threat to the former in terms of hashrate each type of hardware can produce. CPU mining period has phased out as multiple GPU mining rigs became the main stream in CryptoNote mining communities. 
@@ -50,12 +44,12 @@ Using high mixin count will cause error messages and the subjected amount of coi
 
 Case 3. To be Added
 
-Through above cases, nodes will display error such as transaction is too large or mixin count is too big. As more errors are received by multiple wallet sources, the nodes will eventually crash due to high transaction pool size and node's individual processing limit based on its hardware and infrastructure.
+Through above cases, nodes will display errors such as transaction is too large or mixin count is too big. As more errors are received by multiple wallet sources, the nodes will eventually crash due to high transaction pool size and node's individual processing limit based on its hardware and infrastructure.
 
-B. Node Optimization - Pre Authorization
+D. Node Optimization - Pre Authorization
 First we need to preapre a clone blockchain which syncs with the main blockchain. Wallet software will send transaction query to the clone blockchain
 
 If node(s) of clone blockchain approves such format(amount, mixin) of transaction query, wallet software will make the same query to the nodes on the main blockchain. This way, rejects of transactions due to large amount or high mixin can be prevented from reaching nodes working in the main blockchain.
 
-C. Smart Wallet Function - Dividing payment into pieces
-Instead of sending a large and complex amount of coins such as XXX,XXX.XXXXXXXX, dividing transaction integers and decimals to optimum sizes will reduce the size of transaction hashspeed and speed up transaction confirmation speed because they will be easier to be included in blocks. 
+E. Smart Wallet Function - Dividing payment into pieces
+Instead of sending a large and complex amount of coins such as XXX,XXX.XXXXXXXX, dividing transaction integers and decimals to optimum sizes will reduce the size of transaction and transaction confirmation speed because they will be easier to be included in blocks. 
