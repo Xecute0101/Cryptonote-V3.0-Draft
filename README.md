@@ -7,6 +7,7 @@ B. Egalitarian Proof of Service (PoSe) based on Uptime
 C. Node Optimization
 D. Smart Wallet Function
 
+
 A. Egalitarian Proof of Work based on Coin Distribution
 
 A-1.
