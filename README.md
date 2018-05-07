@@ -10,11 +10,11 @@ At the time of Cryptonote V2.0, miners were mainly divided into two types of har
 The market for cryptocurrency has advanced in 5 years and, as of January 2018, ASIC mining hardwares were introduced to the CryptoNote mining communities, and they provide significant advantages over GPU mining rigs in terms of hashrate per hardware and electricity costs.
 
 A-2.
-The word 'Egalitarian' means all people are equal and deserve 'equal' rights and opportunities. Under current mining ecosystem, CPU, GPU and ASIC mining cannot satisfy this egalitarianism concept. Fork effrots to Anti-ASIC mining algorithms have been made by the majority of CryptoNote communities to keep ASIC mining hardware away from the network. But this is a type of centralization.
+The word 'Egalitarian' means all people are equal and deserve 'equal' rights and opportunities. Under current mining ecosystem, CPU, GPU and ASIC mining cannot satisfy this egalitarianism concept. Fork efforts to Anti-ASIC mining algorithms have been made by the majority of CryptoNote communities to keep ASIC mining hardware away from the network. But this is a type of centralization.
 
 In this paper, I would like to propose Egalitarian Proof of Work based on Coin Distribution. Because the emission of a Cryptonote coin is predictable due to inherent emission rate designed in the core of each coin, allowing sequential entrance of each mining hardware to mining pools at specific points of the emission curve can provide more 'equal' rights and 'equal' opportunities in terms of earning coins. Also, as a result of this, the coins will have a better distribution among community miners.
 
-[graph and diagram to be added to provide examples]
+[calculations, graphs and diagrams to be added to provide examples]
 
 B. Egalitarian Proof of Service (PoSe) based on Uptime
 
