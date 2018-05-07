@@ -31,7 +31,7 @@ This Egalitarian PoSe requires two premises that
 1. there is no minimum coin requirement to operate a node and it shall be free to join.
 2. minimum transaction fees become adjusted dynamically
 
-eg) minimum transaction cost of network = the operatring cost of a node per a given time period / the market value of cryptocurrency < the number of coins sent in the transaction.
+eg) minimum transaction cost of network = the operatring cost of a node per a given time period / the market value of cryptocurrency over N blocks < the number of coins sent in the transaction.
 
 [Calculation of node operation cost, target profit, dynamic adjustment of transaction fee based on exchange price]
 
