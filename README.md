@@ -18,9 +18,9 @@ In this paper, I would like to propose Egalitarian Proof of Work based on Coin D
 
 B. Egalitarian Proof of Service (PoSe) based on Uptime
 
-Wallet platforms have also evolved from desktop/laptop computers to mobile devices. However, mobile wallet solutions have storage and bandwidth limitations. Because of these limitations, mobile wallet solutions are required to connect to remote daemon in order to synchronize with blockchain and make transactions.
+Wallet platforms have also evolved from desktop/laptop computers to mobile devices. However, mobile wallet solutions have storage and bandwidth limitations. Because of these limitations, mobile wallet solutions are required to connect to remote daemon sources in order to synchronize with blockchain and make transactions.
 
-Most coins utilizes Proof of Stake(PoS) concept as the mean of providing interests on staking coins and thereby incentivizing those node operators to hold onto coins instead of trading them in the market. The amount of interests provided to node operators increase per the number of coins locked into each node account.
+Most coins utilize the Proof of Stake(PoS) concept as a mean of providing interests on staking coins and thereby incentivizing those node operators to hold onto coins instead of trading them in the market. The amount of interests provided to node operators increase per the number of coins locked into each node account.
 
 In the process of earning coins, either by mining or providing nodes to the network, the same egalitarian concept can be applied because mining pools and nodes take a part of the same ecosystem and both participants in mining pools and node operators shall be entitled to receive coins for their work and service.
 
