@@ -24,9 +24,14 @@ Most coins utilizes Proof of Stake(PoS) concept as the mean of providing interes
 
 In the process of earning coins, either by mining or providing nodes to the network, the same egalitarian concept can be applied because mining pools and nodes take a part of the same ecosystem and both participants in mining pools and node operators shall be entitled to receive coins for their work and service.
 
-The proposed method is Proof of Service that uses the concept of Uptime as the basis of rewarding system. This method requires one premise that there is no minimum coin requirement to operate a node and it shall be free to join. 
+The proposed method is Proof of Service that uses the concept of Uptime as the basis of rewarding system. For example, all nodes, which meets the minimum requirements for a compensation based on Weighted Uptime, can share accumulated transaction fees per a given time period.
 
-For example, all nodes, which meets the minimum requirements for a compensation based on Weighted Uptime, can share accumulated transaction fees per a given time period.
+This Egalitarian PoSe requires two premises that 
+
+1. there is no minimum coin requirement to operate a node and it shall be free to join.
+2. minimum transaction fees become adjusted dynamically
+
+eg) minimum transaction cost of network = the operatring cost of a node per a given time period / the market value of cryptocurrency < the number of coins sent in the transaction.
 
 [Calculation of node operation cost, target profit, dynamic adjustment of transaction fee based on exchange price]
 
