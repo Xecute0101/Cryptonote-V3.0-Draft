@@ -22,7 +22,7 @@ Wallet platforms have also evolved from desktop/laptop computers to mobile devic
 
 Most coins utilizes Proof of Stake(PoS) concept as the mean of providing interests on staking coins and thereby incentivizing those node operators to hold onto coins instead of trading them in the market. The amount of interests provided to node operators increase per the number of coins locked into each node account.
 
-In the process of earning coins, either by mining or providing nodes to the network, the same egalitarian concept can be applied because they are all part of the same ecosystem and they are also entitled to receive coins for their work and service as it is for miners.
+In the process of earning coins, either by mining or providing nodes to the network, the same egalitarian concept can be applied because mining pools and nodes take a part of the same ecosystem and both participants in mining pools and node operators shall be entitled to receive coins for their work and service.
 
 The proposed method is to use the concept of Uptime. This method requires one premise that there is no minimum coin requirement to operate a node and it shall be free to join. 
 
